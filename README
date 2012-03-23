@@ -1,0 +1,8 @@
+This is the backend to a lazily evaluated LexicalAnalyzer. I make no claims
+that it works perfectly. Use the Tycho library as a premade front end to this
+library. Otherwise you will have to write it all from scratch
+
+You will need the Extensions and Collections libraries as this library depends
+on them. 
+
+This is licensed under the BSD license. Go on have fun!
